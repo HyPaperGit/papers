@@ -1,0 +1,6 @@
+numpy
+networkx
+openai
+pandas
+scipy
+statsmodels
